@@ -1,0 +1,6 @@
+[submodule "lillou-pi"]
+	path = lillou-pi
+	url = https://github.com/redbirdrobotics/lillou-pi
+[submodule "lillou-pico"]
+	path = lillou-pico
+	url = https://github.com/redbirdrobotics/lillou-pico
